@@ -21,8 +21,14 @@ pip install -r req...
     sphinx-quickstart docs/ --project 'mylib' --author 'J. Doe'
     # accept defaults at all the interactive prompts
 
-AA. bdo wi: source build, ...z2j
+AA. tiwli adnin, bdo wi: source build, ...z2j
 
 make html
 
 add docs/_build to gitignore
+
+
+https://github.com/readthedocs/readthedocs.org
+
+quickstart....
+signin with gh
